@@ -1,0 +1,886 @@
+Name    Rarity  Type Price
+Pul
+ Rune	Rune	Normal: 3x Lem
+Um
+Rune	Rune	Normal: 2x Pul
+Mal
+Rune	Rune	Normal: 2 Um
+Ist
+Rune	Rune	Normal: 2 Mal
+Gul
+Rune	Rune	Normal: x1 Ist + x1 Mal
+Vex
+Rune	Rune	Normal: x3 Ist
+Ohm
+Rune	Rune	Normal: x6 Ist
+Lo
+Rune	Rune	Normal: x10 - x12 Ist
+Sur
+Rune	Rune	Normal: x12 - x14 Ist
+Ber
+Rune	Rune	Normal: x24 - x28 Ist
+Jah
+Rune	Rune	Normal: x34 - x38 Ist
+Cham
+Rune	Rune	Normal: x4 - x7 Ist
+Zod
+Rune	Rune	Normal: x9 - x11 Ist
+Key of Destruction
+Ubers	Quest Items	 Normal: x1 Pum - x1 Um
+Complete Uber Key Set (all 9 keys)
+Ubers	Quest Items	Normal: x1 Ist - x1 Ist + x1 Mal
+Token of Absolution
+Respec	Quest Items	
+Normal: x1 Pul - x1 Um
+
+Bul-Kathos' Wedding Band
+Unique	Ring	Normal: 2 - 3 Ist
+Perfect: 4 - 5 Ist
+Stone of Jordan
+Unique	Ring	Normal: 10 - 15 Ist
+Nature's Peace
+Unique	Ring	Normal: Pul
+Perfect: Um
+Wisp Projector
+Unique	Ring	Normal: x1 Um - x30 Ist
+Nagelring
+Unique	Ring	Normal: x1Um - x1 Ist
+Raven Frost
+Unique	Ring	Normal: x1 Lem - x2 Ist
+Perfect: x100 Ist
+The Cat's Eye
+Unique	Amulet	Normal: x1 Lem - x1 Pul
+Mara's Kaleidoscope
+Unique	Amulet	Normal: x1.5 Ist -x6 Ist
+Perfect: x30 Ist 
+Metalgrid
+Unique	Amulet	Normal: x1 Um - x2 Ist
+Seraph's Hymn
+Unique	Amulet	Normal: x1 Lem - x1 Um
+Highlord's Wrath
+Unique	Amulet	Normal: x1 Um - x1 Ist
+Rainbow Facet: Lightning Level-up
+Unique	Jewel	Normal: x1 Um - x3 Ist
+Perfect: x10 - x14 Ist 
+Rainbow Facet: Lightning Death
+Unique	Jewel	Normal: Um - 4 Ist
+Perfect: x14 - x18 Ist
+Rainbow Facet: Cold Level-up
+Unique	Jewel	Normal: x1 Pul - x1 Ist
+Perfect: x4 - x7 Ist
+Rainbow Facet: Cold Death
+Unique	Jewel	Normal: x1 Pul - x1.5 Ist
+Perfect: x8 - x10 Ist
+Rainbow Facet: Fire Level-up
+Unique	Jewel	Normal: x1 Pul - x1 Ist
+Perfect: x2 - x3 Ist
+Rainbow Facet: Poison Level-up
+Unique	Jewel	Perfect: x1 - x2 Ist 
+Rainbow Facet: Poison Death
+Unique	Jewel	Perfect: x2 Um - x2.5 Ist
+Arreat's Face
+Unique	Helms	Normal: x1 Pul - x2 Ist
+Perfect: x40 Ist 
+Demonhorn's Edge
+Unique	Helms	Normal: x1 Lem - x1 Um
+Halaberd's Reign
+Unique	Helms	Normal: x1 Lem - x1 Um
+Wolfhowl
+Unique	Helms	Normal: x1 Lem - x1 Ist
+Lenymo
+Unique	Belt	Normal: x1 Lem - x1 Pul
+Goldwrap
+Unique	Belt	Normal: x1 Lem - x1 Pul
+Perfect: x1 Um 
+String of Ears
+Unique	Belts	Normal: x1 Lem - x1 Ist
+Razortail
+Unique	Belts	Normal: x1 Lem - x1 Pul
+Perfect: x1 Um 
+Thundergod's Vigor
+Unique	Belts	Normal: x1 Pul - x1 Ist
+Perfect: x2 - x3 Ist
+Arachnid Mesh
+Unique	Belts	Normal: Mal - 1.5 Ist
+Perfect: x3 - x4 Ist 
+Nosteratu's Coil
+Unique	Belts	Normal: x1 Pul - x1 Um
+Verdungo's Hearty Cord
+Unique	Belts	Normal (40 Vitality): x1 Pul - x2 Ist 
+Perfect: x15 Ist
+Biggin's Bonnet
+Unique	Helms	Normal: x1 Lem -  x1 Pul
+Crown of Thieves
+Unique	Helms	Normal: x1 Pul - x1 Ist
+Perfect: x10 Ist
+Perfect Ethereal : x30 Ist 
+Stealskull
+Unique	Helms	*
+Vampire Gaze
+Unique	Helms	Normal: x1 Um - x1 Ist
+Perfect Ethereal: x20 Ist
+Valkyrie Wing
+Unique	Helms	*
+Andariel's Visage
+Unique	Helms	Normal: x1 Mal - x2 Ist
+Perfect: x5 - x6 Ist
+Perfect Ethereal: x400 Ist
+Harlequin Crest
+Unique 	Helms	Normal: x1 Pul - x1 Ist
+Perfect: x3 - x4 Ist
+Crown of Ages
+Unique	Helms	Normal x1 Socket: 2 - 3 Ist
+Normal x2 Sockets: 6 - 20 Ist
+Perfect: x200 Ist - x600 Ist
+
+Nightwing's Veil
+Unique	Helms	Normal: x1 Um - x4 Ist
+Giant Skull
+Unique	Helms	Normal: x1 Um - x4 Ist
+Bloodfist
+Unique	Gloves	Perfect: x1 Lem - x1 Pul
+The Hand of Broc
+Unique	Gloves	Normal: x1 Lem - x1 Pul
+Magefist
+Unique	Gloves	Perfect: x1 Um - x1 Mal
+Chance Guards
+Unique	Gloves	Perfect: x1 Mal - x1 Ist
+Dracul's Grasp
+Unique	Gloves	Normal: x1 Pul - x1 Ist
+Perfect: x20 Ist
+Steelrend
+Unique	Gloves	Normal: x1 - x6 Ist
+Herald of Zakarum
+Unique	Shield	Normal: x1 - x2 Ist
+Perfect: x15 Ist
+Dragonscale
+Unique	Shield	Normal: x1 Mal - x2  Ist
+Kira's Guardian
+Unique	Circlet	Perfect: x10 Ist
+Griffon's Eye
+Unique	Circlet	Normal: x7 - x25 Ist
+Perfect: x250 Ist
+Greyform
+Unique	Chest Armor	Normal: x1 Lem - x1 Pul
+Duriel's Shell
+Unique	Chest Armor	 
+Skin of the Vipermagi
+Unique	Chest Armor	Perfect: x1 Ist
+Shaftstop
+Unique	Chest Armor	*
+Guardian Angel
+Unique	Chest Armor	Perfect: x1 Um
+Skullder's Ire
+Unique	Chest Armor	Normal: x1 Pul - x1 Um
+Arkaine's Valor
+Unique	Chest Armor	Perfect: x1 Um
+The Gladiator's Bane
+Unique	Chest Armor	 *
+Leviathan
+Unique	Chest Armor	Normal: x1 Pul - x1 Um
+Ormus' Robes
+Unique	Chest Armor	*
+Templar's Might
+Unique	Chest Armor	Normal: x1 Um - x2 Ist
+Tyrael's Might
+Unique	Chest Armor	Normal: x50 Ist
+Lidless Wall
+Unique	Shields	Perfect: x1 Um
+Moser's Blessed Circle
+Unique	Shields	Perfect: x1 Mal - x1 Ist
+Head Hunter's Glory
+Unique	Shields	Normal: x1 Um - x2 Ist
+Perfect: x4 - x6 Ist
+Stormshield
+Unique	Shields	Normal: x1 Pul - x1 Um
+Perfect: x1 Mal - x1 Ist
+Homunculus
+Unique 	Shrunken Heads	Normal: x1 Pul - x1 Um
+Perfect: x1 Ist
+Darkforce Spawn
+Unique 	Shrunken Heads	 
+Boneflame
+Unique	Shrunken Heads	Normal: x1Um - 1.5 Ist
+Hotspur
+Unique	Boots 	Perfect: x1 Pul - x1 Um
+Gore Rider
+Unique	Boots	Normal: x1 Pul - x1 Ist
+Perfect: x3 - x4 Ist
+Infernostride
+Unique	Boots 	*
+War Traveler
+Unique	Boots 	Normal: x1 Pul - x3 Ist
+Perfect: x15 Ist - x25 Ist
+Silkweave
+Unique	Boots 	Perfect: x1 Um - x1 Mal
+Waterwalk
+Unique	Boots	Perfect: x2 - x4 Ist
+Marrowwalk
+Unique	Boots 	Perfect: x5 - x6 Ist
+Shadow Dancer
+Unique	Boots	Normal: x1 Ist - x10 Ist
+Sandstorm Trek
+Unique	Boots	Normal: x1 Pul - x3 Ist
+Jalal's Mane
+Unique	Helms	Perfect: x1 Um - x1 Mal
+Ravenlore
+Unique 	Helms	Normal: x1 Lem - x1 Pul
+Perfect: x1 Um
+Lycander's Aim
+Unique	Weapons	Normal: x1 Lem - x1 Um
+Perfect: x1 Mal - x1 Ist
+Blood Raven's Charge
+Unique	Weapons	Normal: x1 Lem - x1 Pul
+Titan's Revenge
+Unique	Weapons	Normal Ethereal: x6 - x60 Ist
+Perfect Ethereal: x300 Ist
+Thunderstroke
+Unique	Weapon	Normal: 
+Buriza-Do Kyanon
+Unique	Weapon	Perfect: x1 Mal
+Rune Master
+Unique	Weapon	Normal:
+Perfect Ethereal: x25 Ist
+Death Cleaver
+Unique	Weapon	Normal: x1 Mal - x1 Ist
+Witchwild String
+Unique	Weapon	Normal: x1 Lem - x1 Pul
+Perfect: x1 Um
+Eaglehorn
+Unique	Weapon	Normal: x1 Pul - x1 Um
+Windforce
+Unique	Weapon	Normal: x3 - x6 Ist
+Widowmaker
+Unique	Weapon	Normal (+5 Guided Arrow): x1 Lem - x1 Mal
+Gull
+Unique	Weapon	Normal: x1 Lem - x1 Pul
+Fleshripper
+Unique	Weapon	Normal: x1 Pul - x1 Um
+Wizardspike
+Unique	Weapon	Normal: x1 Lem - x1 Pul
+Bartuc's Cut-Throat
+Unique	Weapon	*
+Jade Talon
+Unique	Weapon	*
+The Cranium Basher
+Unique	Weapon	Normal: x1 Um - x2 Ist
+Schaefer's Hammer
+Unique	Weapon	Normal: x1 - x2 Ist
+Stormlash
+Unique	Weapon	Normal: x1 - x2 Ist
+The Oculus
+Unique	Weapon	Normal: x1 Pul - x1 Um
+Eschuta's Temper
+Unique	Weapon	Normal: x1 Pul - x4 Ist
+Perfect: x15 Ist
+Death's Fathom
+Unique	Weapon	Normal (20% Cold damage or less): x2 - x4 Ist
+Normal (25% Cold damage or less): x5 - x10 Ist
+Normal (25% Cold Damage or less; Dependent on Resistances): x15 - x50 Ist
+Torch of Iro
+Unique	Weapon	Normal: x1 Pul - x1 Um
+Boneshade
+Unique	Weapon	Normal: x1 Pul - x1 Mal
+Death's Web
+Unique	Weapon	Normal: x4 - x8 Ist
+Blade of Ali Baba
+Unique	Weapon	Normal: x1 Lem - x1 Pul
+Perfect: x1 Ist
+Azurewrath
+Unique	Weapon	Normal: x1 Mal - x2 Ist
+The Grandfather
+Unique	Weapon	Normal: x1 Mal - x2 Ist
+Perfect: x2 - x3 Ist
+Hone Sundan
+Unique	Weapon	Normal Ethereal: x3 Ist
+Perfect Ethereal: x50 Ist
+Arioc's Needle
+Unique	Weapon	Normal: x1 Lem - x1 Pul
+Ribcracker
+Unique	Weapon	Normal: x1 Pul - x1 Um
+Warpspear
+Unique	Weapon	Normal: x1 Lem - x1 Pul
+Mang Song's Lesson
+Unique	Weapon	Normal: x1 Um - x1 Ist
+Ondal's Wisdom
+Unique	Weapon	Normal: x1 Pul - x1 Mal
+Tomb Reaver
+Unique	Weapons	Normal (3 Sockets): x1 Pul - x2 Ist
+Normal Ethereal (3 sockets, 27 Increased Damage): x40 -x250 Ist
+Perfect Ethereal: x500 Ist.
+Bonehew
+Unique	Weapon	Normal Ethereal: x1 Um - x1 Ist
+The Reaper's Toll
+Unique	Weapon	Normal: x1 Pul - x1 Mal
+Normal Ethereal: x5 - x20 Ist
+Stormspire
+Unique	Weapon	Normal: x1 Um - x1 Ist
+Knell Striker
+Unique	Weapon	Normal: x1 Lem - x1 Pul
+Astreon's Iron Ward
+Unique	Weapon	Normal: x1 - x4 Ist
+The Redeemer
+Unique	Weapon	Normal: x1 Pul - x1 Ist
+Heaven's Light
+Unique	Weapon	Normal: x1 Um - x2 Ist
+The Scalper
+Unique	Weapon	Normal: x1 Lem - x1 Pul
+Lacerator
+Unique	Weapon	Normal: x1 Lem - x1 Pul
+Deathbit
+Unique	Weapons	Normal: x1 Lem - x1 Pul
+Warshrike
+Unique	Weapon	Normal: x1 Lem - x1 Um
+Call to Arms
+Runeword	Runeword	1+ Battle Orders: x2 - x3 Ist
+3+ Battle Orders: x3 - x6 Ist
+6 Battle Orders: x1 Ber
+Perfect: x5 Ber
+Enigma
+Runeword	Runeword	Normal: x1 - x3 Ber
+Infinity
+Runeword	Runeword	Normal: x2 Ber
+325 Increased Damage: x3 Ber
+Perfect : x4 Ber
+Fortitude
+Runeword	Runeword	Normal: x1 - x2 Ber
+Grief
+Runeword	Runeword	Low: x8 - x10 Ist
+Mid: x13 Ist
+High: x2 Ber
+Phase Blade: x4 - 5 Ber
+Perfect Phase Blade: x15 Ber
+Berserker Axe: x10 Ber
+Perfect Berserk Axe: x20 Ber
+
+Heart of the Oak
+Runeword	Runeword	Flail - Low: x2 Ist
+Flail - Mid: x4 Ist
+Flail - High: x7 - x9 Ist
+Perfect Flail: x14 Ist 
+Insight
+Runeword	Runeword	Ethereal Colossus Voulge - Lvl 17 Meditation Aura: x2 - x3 Ist
+Ethereal Cryptic Axe - Lvl 17 Meditation Aura x2 - x3 Ist
+Ethereal Giant Thresher - Lvl 17 Meditation Aura: x3 Ist
+Spirit
+Runeword	Runeword	Crystal Sword: x1 Pul
+Crystal Sword with 35% Faster Cast Rate: x1 Um - x1 Ist
+Monarch: x1 Um - x1 Ist
+Monarch with 35% Faster Cast Rate: x2 Ist
+Monarch with 35% Faster Cast Rate; 148 Defense, 112 Mana: x4 Ist
+
+Faith
+Runeword	Runeword	+3 Grand Matron Bow - 12/13 Fanaticism Aura: x1 Ber
++3 Grand Matron Bow -  14 Fanaticism Aura: x4 Ber
++3 Grand Matron Bow - 15 Fanaticism Aura: x5 Ber
++3 Grand Matron Bow - 15 Fanaticism Aura in perfect bow: x15 Ber
+Guillaume's Face
+Set Item	Helms	Normal: x1 Pul - x1 Um
+Naj's Puzzler
+Set Items	Weapon	Normal: x1 Lem - x1 Pul
+Cow King's Hooves
+Set Items	Boots	Normal x1 Lem - x1 PuAldur's
+Laying of Hands
+Set Items	Gloves	Normal: x1 Lem - x1 Pul
+Aldur's Advance
+Set Item	Boots	Perfect: x2 Ist
+Bul-Kathos' Sacred Charge
+Set Item	Weapon	Normal: x1 Lem - x1 Pul
+Bul-Kathos' Tribal Guardian
+Set Item	Weapon	Normal: x1 Lem - x1 Pul
+Griswold's Valor
+Set Item	Helms	Normal: x1 Pul - x1 Mal
+Griswold's Redemption
+Set Item	Weapon	Normal: x1 - x3 Ist
+Griswold's Honor
+Set Item	Shield	Normal: x1 Um - x1 Mal
+M'avina's True Sight
+Set Item	Helms	Normal: x1 Um - x1 Mal
+M'avina's Caster
+Set Item	Weapons	Normal: x1 Lem - x1 Pul
+Natalya's Totem
+Set Item 	Helms	Perfect: x1 Um - x1 Mal
+Natalya's Mark
+Set Item 	Weapon	Normal: x1 Um - x1 Mal
+Natalya's Soul
+Set Item	Boots	Perfect: x1 Um
+Tal Rasha's Fine-Spun Cloth
+Set Item	Belts	Perfect: x1 Pul
+Tal Rasha's Adjudication
+Set Item 	Amulet	Normal: x1 Um - x1 Mal
+Tal Rasha's Lidless Eye
+Set Item 	Weapon	Perfect: x1 Pul - x1 Um
+Tal Rasha's Guardianship
+Set Item 	Chest Armor	Normal: x1 Mal - x1 Ist
+Tal Rasha's Horadric Crest
+Set Item	Helms	Perfect: x1 Pul
+Trang-Oul's Guise
+Set Item	Helms	Normal: x1 Pul - x1 Um
+Trang-Oul's Wing
+Set Item	Shield	Normal: x1 Lem - x1 Um
+Trang-Oul's Claws
+Set Item	Gloves	Normal: x1 Lem - x1 Pul
+Trang-Oul's Girth
+Set Item	Belt	Normal: x1 Pul - x1 Um
+Perfect: + 3 Skill Levels: x1 Ist
+Immortal King's Will
+Set Item	Helms	Perfect: x1 Um 
+Immortal King's Soul Cage
+Set Item	Chest Armor	Normal: x1 Mal - x1 Ist
+Small Charm (Resistances)
+Magic Item	Charm	
+11 Resistances, Perfect: x1 Pul - x1 Um
+11 Cold/Fire/Lightning Resitances, 5 Faster Hit Recovery: x3 Ist
+11 Cold/Fire/Lightning Resitances, 5 Faster Hit Recovery;Perfect: x18 Ist
+11 Poison Resistance, 5 Fast Hit Recover: x1 Um
+11 Cold/Fire/Lightning Resistance, 3 Faster Run/Walk: x12 Ist
+9 Cold/Fire/Lightning Resistance, 3 Faster Run/Walk: x10 Ist.
+5 to All Resistances: x2 Ist
+5 to all resistances, perfect: x2 Ist
+5 to all resistances, 5 Faster Hit Recovery: x20 Ist
+5 to all resistances, 5 Faster Hit Recovery; Perfect: x70 Ist
+5 to all Resistances, 2 Dexterity/Strength: x2 Ist
+5 to all Resistances, 2 Dexterity/Strength;perfect: x60 Ist
+5 to all Resistances, 10 to extra gold: x2 Ist
+5 to all Resistances, 10 to extra gold: x2 Ist; perfect: x50 Ist
+5 to all Resistances, 14 to Life: x60 Ist
+5 to all Resistances, 15 to Life; perfect: x180 Ist
+5 to all Resistances, 19 to Life; perfect: x220 Ist
+4 to all Resistances, 20 to Life; perfect: x120 Ist
+5 To all Resistances, 20 Life: x150 Ist
+
+Small Charm (Mana and Life)
+Magic Item	Charm	12 Mana, 3 Faster Run/Walk; Perfect: x10 Ist
+12 Mana, 3 Faster Run/Walk; Perfect: x20 - x40 Ist
+12 Mana, 5 Faster Hit Recovery: x8 Ist
+12 Mana, 5 Faster Hit Recovery; Perfect: x20 Ist
+15 Life, 7 Mana; Perfect: x35 Ist
+15 Life, 12 Mana: x1 Ist
+15 Life, 12 Mana; Perfect: x100 Ist
+15 Life, 20 Defense; Perfect: x20 - x60 Ist
+19 Life, 11 Resistances (except Poison): x5 Ist
+19 Life, 9 Lightning Resistance: x4 - x8 Ist
+20 Life: x1 Mal
+20 Life, 30 Defense; Perfect: x100 Ist
+20 Life, 30 Attack Value; Perfect: x9 - x10 Ist
+20 Life, 30 Attack Value; Perfect: x14 - x15 Ist
+20 Life, 36 Attack Value: x18 Ist
+20 Life, 11 Resistances (Except Poison) x22 - x25 Ist
+20 Life, 11 Resistances (Except Poison); Perfect: x80 Ist
+20 Life, 11 Poison Resistance: x5 Ist
+20 Life, 17 mana: x60 Ist
+20 Life, 17 mana; Perfect: x130 Ist
+Small Charm (Magic Find)
+Magic Item	Charm	4 Magic Find, 5 to All Resistances; Perfect: x6 - x9 Ist
+5 Magic Find, 10 Fire Resistance; Perfect: x1 Ist
+6 Magic Find, 5 to all Resistances; Perfect: x60 Ist
+7 Magic Find: x1 Pul
+7 Magic Find, Perfect: x1 Pul - x1 Um
+7 Magic Find, 10 Fire Resistance; Perfect: x16 Ist
+7 Magic Find, 11 Fire Resistance; Perfect: x30 - x35 Ist
+7 Magic Find, 11 Single Resistance: x2 Ist
+7 Magic Find, 17 Mana; Perfect: x15 Ist
+7 Magic Find, 3 to All Resistances: x1 Ist
+7 Magic Find, 3 to All Resistances; Perfect: x30 Ist
+7 Magic Find, 4 to All Resistances; Perfect: x60 Ist
+7 Magic Find, 5 to All Resistances: x5 Ist
+7 Magic Find, 5 to All Resistances; Perfect: x200 Ist
+7 Magic Find, 3 Maximum Damage, 10-20 Attack Value: x1 Ist
+10 Extra Gold: x1 Lem
+10 Extra Gold; Perfect: x1 Lem - x1 Pul
+Small Charm (Maximum Damage)
+Magic Item	Charm	
+2 Maximum Damage, xx Attack Value, 19 Life; Perfect: x4 Ist
+3 Maximum Damage, 20 Attack Value: x1 Lem
+3 Maximum Damage, 20 Attack Value, 10 Extra Gold: x4 - x5 Ist
+3 Maximum Damage, xx Attack Value, 2 Dexterity/Strength: x3 Ist
+3 Maximum Damage, 20 Attack Value, 2 Dexterity: x8 - x10 Ist
+3 Maximum Damage, 1x Attack Value, 3 Faster Run/Walk: x2 Ist
+3 Maximum Damage, 1x Attack Value, 3 Faster Run/Walk; Perfect: x3 - x4 Ist
+3 Maximum Damage, 20 Attack Value, 3 Faster Run/ Walk: x10 Ist
+3 Maximum Damage, 20 Attack Value, 5 Faster Hit Recovery: x4 - x5 Ist
+3 Maximum Damage, xx Attack Value, 14 Life; Perfect: x15 - x20 Ist
+3 Maximum Damage, xx Attack Value, 15 Life: x23 Ist
+3 Maximum Damage, 20 Attack Value, 16 Life; Perfect: x70 - x80 Ist
+3 Maximum Damage, xx Attack Value, 17 Life: x21 Ist
+3 Maximum Damage, xx Attack Value, 17 Life; Perfect: x22 Ist
+3 Maximum Damage, 1x Attack Value, 19 Life: x50 Ist
+3 Maximum Damage, 1x Attack Value, 20 Life: x50 Ist
+3 Maximum Damage, 20 Attack Value, 18 Life: x20 Ist
+3 Max Damage, 20 Attack Value, 20 Life: x60 Ist
+3 Max Damage, xx Attack Value, 50 Poison Damage: x1 Ist
+3 Max Damage, xx Attack Value, 100 Poison Damage: x2 - x3 Ist
+100 Poison Damage /5 seconds: x1 Lem
+100 Poison Damage /5 seconds; Perfect: x1 Pul
+175 Poison Damage /6 Seconds, 9 extra gold; Perfect: x6 Ist
+175 Poison Damage /6 Seconds, 20 Life; Perfect: x10 Ist
+251 Poison Damage/10 Seconds: x3 Ist
+313 Poison Damage/11 Seconds: x6 Ist
+313 Poison Damage/11 Seconds; Perfect: x40 Ist
+451 Poison Damage/12 Seconds: x70 Ist
+
+Small Charm (Lightning Damage)
+Magic Item	Charm	1-38 Lightning Damage, 20 Life; Perfect: x5 - x10 Ist
+1-4x Lightning Damage: x1 Um
+1-4x Lightning Damage; Perfect: x2 - x3 Ist
+1-40 Lightning Damage, 5 Faster Hit Recovery; Perfect: x24 Ist
+1-5x Lightning Damage: x3 Ist
+1-5x Lightning Damage; Perfect: x5 Ist
+1-6x Lightning Damage: x3 Ist
+1-6x Lightning Damage; Perfect: x7 Ist
+1-69 Lightning Damage, Faster Hit Recovery; Perfect: x50 - x80 Ist
+2-8x Lightning Damage: x4 Ist
+2-9x Lightning Damage: x130 Ist
+Large Charm
+Magic Item	Charm	5 Maximum Damage, xx Attack Value, 2x Life: x1 Ist
+6 Maximum Damage, xx Attack Value, 2x Life: x5 Ist
+6 Maximum Damage, xx Attack Value, 35 Life: x6 Ist
+6 Maximum Damage, xx Attack Value, 35 Life; Perfect: x20 Ist
+6 Maximum Damage, xx Attack Value, 5 Dexterity; Perfect: x8 - x10 Ist
+2-7x Lightning Damage: x1 Um
+2-11x Lightning Damage: x2 Ist
+1-90 Lightning Damage, 8 Faster Hit Recovery: x1.5 Ist
+Grand Charm
+Magic Item	Charm	15 to All Resistances x1 Um
+15 to All Resistances; Perfect: x1 - x2 Ist
+15 to All Resistances, 6 Dexterity; Perfect: x4 - x6 Ist
+15 to All Resistances, 45 Life: x15 Ist
+8 Max Damge, xx Attack Value, 42 Life; Perfect: x5 - x6 Ist
+9 Maximum Damage,  xx Attack Value, 7 Fast Run/Walk: x10 - 12 Ist
+10 Maximum Damage, xx Attack Value, 40 Extra Gold: x5 Ist
+10 Maximum Damage, xx Attack Value, 5 Strength/Dexterity: x4 Ist
+10 Maximum Damage, xx Attack Value 6 Strength/ Dexterity: x5 Ist
+10 Maximum Damage, xx Attack Value, 7 Fast Run/Walk: x20 Ist
+10 Maximum Damage, 52 Attack Value, 28 Life: x40 - x45 Ist
+10 Maximum Damage, 52 Attack Value, 30 Life: x16 Ist
+10 Maximum Damage, 52 Attack Value, 40 Life: x18 Ist
+10 Maximum Damage, 52 Attack Value, 45 Life: x20 Ist
+13 Maximum Damage, 75 Attack Value: x5 Ist
+14 Maximum Damage, xx Attack Value: x12 Ist
+14 Maximum Damage, xx Attack Value; Perfect: x25 - x40 Ist
+40 Extra Gold, 1xx Attack Value: x2 Ist
+38 Life, 1xx Attack Value: x2 Ist
+39 Life, 1xx Attack Value: x2 Ist
+45 Life, 110 Attack Value: x22 - x24 Ist
+Baal Charms with proof: x1 Mal
+Baal Charms with proof; Perfect: x1 Ist
+Baal Charms without proof: x1 Pul
+Baal Charms without proof; Perfect: x1 Um
+Rings
+Magical Item	Rings	40 Magic Find: x3 - x4 Ist
+*
+Jewels 
+Magical Items	Jewels	24 Maximum Damage: x31 Ist
+30 Maximum Damage: x25 - x30 Ist
+30 Maximum Damage; Perfect: x150 Ist
+40 Increased Damage: x1 Um - x1 Mal
+40 Increased Damage; Perfect: x1 - x1,5 Ist
+40 Increased Damage, 19 Life: x100 Ist
+40 Increased Damage, 9 Dexterity: x7 Ist
+40 Increased Damage, 9 Strength: x6 Ist
+30 Increased Damage, 15 Increased Attack Speed: x8 Ist
+39 Increased Damage, 15 Increased Attack Speed: x14 Ist
+40 Increased Damage, 15 Increased Attack Speed: x50 Ist
+40 Increased Damage, -15 Requirements: x3 Ist
+39 Increased Damage, -15 Requirements: x2 Ist
+40 Increased Damage, 15 Maximum Damage: x6 Ist
+40 Increased Damage, 9 Minimum Damage; Perfect: x5 - x8 Ist
+40 Increased Damage, 10 Minimum Damage:
+15 Maximum Damage, 15 Increased Attack Speed: x10 Ist
+15 Maximum Damage, 15 Increased Attack Speed; Perfect: x25 Ist
+15 to All Resistances: x1 Mal
+15 to All Resistances; Perfect: x1 Mal
+13 to All Resistances, 7 Faster Hit Recovery, Perfect: x50 Ist
+14 to All Resistances, 7 Faster Hit Recovery; Perfect: x60 Ist
+15 to All Resistances, 7 Faster Hit Recovery: x6 Ist
+15 to All Resistances, 7 Faster Hit Recovery; Perfect: x100 Ist
+15 to All Resitances, 9 Dexterity/Strength: x20 Ist
+15 to All Resitances, 20 Life: x45 Ist
+15 to All Resitances, -15 Requeriments: x6 Ist
+13 to All Resistances, 15 Increased Attack Speed; Perfect: x75 Ist
+14 to All Resistances, 15 Increased Attack Speed; Perfect: x115 Ist
+15 to All Resistances, 15 Increased Attack Speed: x60 Ist
+15 to All Resistances, 15 Increased Attack Speed; Perfect: x250 Ist
+20 Fire Resistance, 15 Increased Attack Speed: x1 Ist
+20 Fire Resistance, 15 Increased Attack Speed, Perfect: x8 Ist
+27 Fire Resistance, 15 Increased Attack Speed ; Perfect: x25 - x50 Ist
+30 Cold Resistance/Lightning Resistance, 15 Increased Attack Speed: x4 - x5 Ist
+30 Fire Resistance, 15 Increased Attack Speed: x25 - x30 Ist
+30 Poison Resistance, 15 Increased Attack Speed: x? Ist
+Amulets (Amazon)
+Magical Items	Amulet	+3 Passive and Magical Skills, 100 Life: x1 Ist
+Amulets (Assassin)
+Magical Items	Amulet	+3 Traps, 100 Life: x1 - x2 Ist
++3 Traps, 30 Dexterity/Strength: x1 Mal
+Amulets (Barbarian)
+Magical Items	Amulet	+3 War Cries: x1 Um
++3 War Cries, 100 Life: x1 Ist
++3 War Cries, 10 Faster Cast Rate: x1 Mal
+Amulets (Druid)
+Magical Items	Amulet	+3 Elemental Skills, 100 Life: x1 Mal - x1 Ist
++3 Elemental SKills, 30 Dexterity/Strength: x1 Um
++3 Elemental Skills, 10 Faster Cast Rate: x1 Mal
++3 Shapeshifting Skills, 100 Life: x7 Ist
+Amulets (Paladin)
+Magical Items	Amulet	+3 Combat Skills, 100 Life: x1 Mal - x1 Ist
++3 Combat Skills, 30 Dexterity/Strength: x1 Um
++3 Combat Skills, 10 Faster Cast Rate: x1 Mal - x1 Ist
++3 Combat Skills, 35 Magic Find: x1 Um - x1 Mal
+Amulets (Neromancer)
+Magical Items	Amuilet	+3 Poison & Bone Spells, 100 Life: x1 Mal - x1 Ist
++3 Poison & Bone Spells, 30 Dexterity/Strength: x1 Pul - x1 Um
++3 Poison & Bone Spells, 10 Faster Cast Rate: x1 Mal
++3 Summoning Skills; Perfect: x1 Pul - x1 Um
++3 Summoning Skills, 100 Life: x1 Mal - x1 Ist
++3 Summoning Skills, 30 Dexterity/Strength: x1 Um
+Amulets (Sorceress) 
+Magical Items	Amulet	+3 Fire Skills; Perfect: x1 Um
++3 Fire Skills, 100 Life: x4 - x5 Ist
++3 Fire Skills, 30 Dexterity/Strength: x1 Mal
++3 Fire Skills, 10 Faster Cast Rate: x1 Mal
++3 Fire Skills, 35 Magic Find: x1 Um- x1 Mal
++3 Lightning Skills, 100 Life: x1 Ist
++3 Lightning Skills, 30 Dexterity/ Strength: x1 Um
++3 Lightning Skills, 10 Faster Cast Rate: x1 Ist
++3 Lightning Skills, 35 Magic Find: x1 Mal
++3 Cold skills, 100 Life: x3 Ist
++3 Cold Skills, 30 Dexterity/Strength: x1 Um
++3 Cold Skills, 10 Faster Cast Rate: x1 Mal
++3 Cold Skills, 35 Magic Find: x1 Mal - x1 Ist
+Shields
+Magical Items	Shields	
+Gothic Shield - 30% faster blocking rate / 20% increased chance when blocking, 3 Socket: x1 Pul - x1 Um
+Gothic Shield - 60 Life. 3 Socket: x1 Mal - x1 Ist
+Ward -30% faster blocking rate / 20% increased chance when blocking, 4 Socket: x30 Ist
+Tower Shield -30% faster blocking rate / 20% increased chance when blocking, 3 Sockets: x1 Mal
+Blade Barrier - 30% faster blocking rate / 20% increased chance when blocking, 3 Sockets: x1 Ist
+Troll Nest - 30% faster blocking rate / 20% increased chance when blocking, 3 Sockets: x5 Ist
+Kite Shield - 30% faster blocking rate / 20% increased chance when blocking, 3 Sockets: x1 Mal
+Kite Shield - 60 Life, 3 Socket: x2 - x3 Ist
+Dragon Shield - 30% faster blocking rate / 20% increased chance when blocking, 3 Socket: x7 Ist
+Monarch - 30% faster blocking rate / 20% increased chance when blocking, 4 Sockets: x120 Ist
+Monarch - 17 Faster Hit Recovery, 4 Sockets: x3 Ist
+
+Chest Armor
+Magical Item	Chest Armor	Archon Plate - 80-90 Life, 4 Sockets: x5 - x10 Ist
+Archon Plate - 100 Life, 4 Sockets: x130 Ist
+Archon Plate - 24 Faster Hit Recovery, 4 Sockets: x3 Ist
+Dusk Shroud - 90+ Life, 4 Sockets: x50 Ist
+Dusk Shroud - 24 Faster Hit Recovery, 4 Sockets: x20 Ist
+Ancient Armor - 90+ Life, 4 Sockets: x1 Um - x1 Ist
+Ancient Armor - 100 Life, 4 Sockets: x1 - x3 Ist
+Gothic Plate - 90+ Life, 4 Sockets: x1 Um - x1 Ist
+Gothic Plate - 95+ Life, 4 Sockets: x1- x2 Ist
+Gothic Plate - 95+ Life, 4 Sockets; Perfect: x24- x28 Ist
+Gothic Plate - +20 Strength, 4 Socket: x1 Pul
+Gothic Plate - 14% Chance of lvl 5 Nova on hit, 4 Socket: x4 Ist
+Gothic Plate - 24 Faster Hit Recovery, 4 Sockets, Perfect: x30 - x34 Ist
+Loricated Mail - 24 Faster Hit Recovery, 4 Sockets; Perfect: x24 - x34 Ist
+Gloves
+Magic Item	Gloves	+3 Javelin and Spear Skills, 20 Increased Attack Speed: x1 Ist
++3 Javelin and Spear Skills, 20 Increased Attack Speed; Perfect: x1 - x2 Ist
++3 Bow and Crossbow Skills, 20 Increased Attack Speed: x1 Pul
++3 " target="">Passive and Magical Skills, 20 Increased Attack Speed: x1 Pul
++3 Martial Arts, 20 Increased Attack Speed: x1 Pul
+Helms
+Magic Items	Helms	Barbarian Helms  +2 Barbarian Skills/ +2 Warcries, +3 Battle Orders, 2 Sockets: x5 + x10 Ist
+Barbarian Helms  +3 Warcries, +3 Battle Orders, x1 Socket (Arreat-Style): x5 Ist
+Barbarian Helms  +3 Warcries, +3 Battle Orders, x1-2 Socket (Not Arreat-Style)): x10 Ist
+Barbarian Helms  +3 Warcries, +3 Battle Orders,  x2 Socket (Arreat Style): x50 Ist
+Druid Pelts +3 Elemental Skills, +3 Tornado x1 Socket: x5 Ist
+Druid Pelts +3 Elemental Skills, +3 Tornado x2 Sockets: x42 Ist
+
+Circlets/ Tiaras/ Diademe
+Magi Items	Helms	Tiara/Diadem 97 Life, 3 Socket: x17 Ist
+Tiara/Diadem 100 Life, 3 Socket: x55 Ist
+Tiara/Diadem  30 Faster Run/Walk, 3 Socket: x180 Ist
+Tiara/Diadem  30 Faster Run/Walk, 3 Socket; Perfect: x200 Ist
+Tiara/Diadem  30 Strength, 3 Socket: x15 Ist
+Tiara/Diadem  23 Dexterity, 3 Socket: x5 Ist
+Tiara/Diadem 30 Dexterity, 3 Socket: x15 Ist
+Tiara/Diadem 30 Dexterity, 3 Socket; Perfect: x20 Ist
+Circlet (Amazon)
+Magic Items	Helms	+2 Amazon Skills, 30 Faster Run/Walk, 2 Socket: x5 Ist
++2 Amazon Skills, 100 Life, 2 Socket: x1 Ist
++3 Passive and Magical Skills, 30 Faster Run/Walk, 2 Sockets: x2 Ist
+Circlet (Assassin) 
+Magic Items	Helms	+2 Assassin Skills, 20 Faster Cast Rate, 2 Sockets: x8 Ist
++2 Assassin Skills, 100 Life, 2 Sockets: x1 Mal
++3 Traps, 20 Faster Cast Rate, 2 Sockets: x10 - x13 Ist
+Circlet (Druid)
+Magic Items	Helms	+2 Druid Skills, 20 Faster Cast Rate, 2 Sockets: x1 Mal
++2 Druid Skills, 30 Dexterity/Strength, 2 Sockets: x1 Ist
+Circlet (Paladin) 
+Magic Items	Helms	+2 Paladin Skills, 20 Faster Cast Rate, 10 to all Resistances, Perfect: x10 Ist
++3 Paladin Combat Skills, 20 Faster Cast Rate, 2 Sockets: x4 Ist
+Circlet (Necromancer)
+Magic Items	Helms	+2 Necromancer Skills, 20 Faster Cast Rate, 2 Sockets: x5 Ist
++3 Poison and Bone Skills, 20 Faster Cast Rate, 2 Sockets: x30 Ist
++3 Necromancer Summoning Skills, 20 Faster Cast Rate, 2 Sockets x6 Ist
+
+Circlet (Sorceress) 
+Magic Items	Helms	+2 Sorceress Skills, 20 Faster Cast Rate, 2 Sockets  x2 Ist
++2 Sorceress Skills, 100 Life, 2 Sockets, x6 Ist
++2 Sorceress Skills, 30 Dexterity/Strength, 2 Sockets x1 Mal
++3 Fire Skills, 2 Sockets x1 Pul
++3 Fire Skills, 2 Sockets;Perfect  x1-2 Ist
++3 Fire Skills, 20 Faster Cast Rate, 2 Sockets, x10 Ist
++3 Lightning Skills, 20 Faster Cast Rate, 2 Sockets: x20 - x25 Ist
+Greater Claws
+Magic Items	Weapons	+3 Traps, +3 Lightning Sentry, 40 Increased Attack Speed, 2 Socket; Perfect: x300 - x400 Ist
++3 Traps, +3 Lightning Sentry, 20 Increased Attack Speed, 2 Socket: x20 Ist
++3 Traps, +3 Lightning Sentry, 20 Increased Attack Speed, 2 Socket; Perfect: x100 Ist
++3 Traps, +3 Lightning Sentry, 2 Socket: x65 Ist
++3 Traps, +3 Lightning Sentry, 1 Socket: x61 Ist
+
+Scissors Quhab
+Magic Items	Weapons	+3 Traps, +3 Lightning Sentry, >20 Increased Attack Speed, 2 Socket: x15 Ist
++3 Traps, +3 Lightning Sentry, 2 Sockets: x10 Ist
++3 Traps, +3 Lightning Sentry, 1 Socket: x5 Ist
+Claws
+Magic Items	Weapons	+3 Traps + Lightning Sentry OR +2 Assassin Skills, +3 Lightning Sentry, 2 Sockets: x6 - x7 Ist
++3 Traps + Lightning Sentry OR +2 Assassin Skills, +3 Lightning Sentry, 1 Sockets: x3 Ist
++3 Traps + Lightning Sentry OR +2 Assassin Skills, +3 Lightning Sentry: x1 Um
+Amazon Throwing Spears
+Magic Items	Weapons	+6 to Javelin and Spear Skills, 10 Increased Attack Speed: x6 Ist
++4 to Javelin and Spear Skills, 40 Increased Attack Speed: x15 Ist
++5 to Javelin and Spear Skills, 40 Increased Attack Speed: x200 Ist
++6 to Javelin and Spear Skills, 40 Increased Attack Speed: x500 Ist
+Glaive / Throwing Spear
+Magic Items	Weapons	+3 Warcries, +15 Maximum Damage, x1 Pul
++3 Warcries, +9 Minimum Damage, x1 Pul
++3 Warcries, Drain Life, x1 Pul
++3 Warcries, Mana Drain: x1 Pul
++3 Warcries, Fire Damage x-xxx: x1 Pul
++3 Warcries, Cold Damage x-xxx: x1 Pul
++3 Warcries, Lightning Damage x--xxx: x1 Pul
++3 Warcries, Poison Damage x-xxx over x seconds: x1 Pul - x1 Um
++3 Warcries: x1 Lem - x1 Pul
++3 Warcries; Perfect: x1 Pul - x1 Um
+Orbs
+Magic Items	Weapons	+2 Sorceress Skills, +3 Enchant, 1-2 Socket: x1 Ist
++3 Fire Skills, +3 Enchantment, 1 Socket: x6 Ist
++3 Fire Skills, +3 Enchantment, 2 Socket: x15 Ist
++3 Fire Skills, +3 Enchantment, +3 Fire Mastery, 1-2 Socket x20 Ist
+Amazon Grand Charms
+Bow and Crossbow Skills
+Magic Items	Charms	Fletcher's Bow and Crossbow Skills
+Clean x1 Lem
+5 - 10 Life x1 Lem - x1 Pul
+10 - 20 Life x1 Pul - x1 Um
+Amazon Grand Charms
+Javelin and Spears Skills
+Magic Items	Charms	Harpoonist's Javelin and Spear Skills
+Clean: x1 Mal - x1 Ist
+30 - 35 Life: x17 - x28 Ist
+7 Faster Run/ Walk: x15 - x18 Ist
+Amazon Grand Charms
+Passive and Magic Skills
+Magic Items	Charms	Acrobat's Passive and Magic Skills
+Clean: x1 Lem
+Assassin Grand Charms
+Traps
+Magic Items	Charms	Entrapping Traps
+Clean: x1 Um - x1 Mal
+30 - 40 Life: x12 - x28 Ist
+6 Strength: x1.5 - x2 Ist
+Assassin Grand Charms
+Martial Arts
+Magic Items	Charms	Shogukusha's Martial Arts
+Clean: x1 Pul - x1 Um
+Assassin Grand Charms
+Shadow Disciplines
+Magic Items	Charms	Mentalist's Shadow Disciplines
+Clean: x1 Pul - x1 Um
+Barbarian Grand Charms
+Combat Masteries
+Magic Items	Charms	Fanatic Combat Masteris
+Clean: x1 Lem
+Barbarian Grand Charms
+Combat Skills
+Magic Items	Charms	Exper's Combat Skills
+Clean: x1 Lem + x1 Pul
+Barbarian Grand Charms
+Warcries
+Magic Items	Charms	Sounding Warcries
+Clean: x1 Pul - x1 Um
+5 - 10 Life: x1 Um - x1 Ist
+10 - 20 Life: x1 - x2 Ist
+20 - 30 Life: x2 - x3.5 Ist
+Druid Grand Charms
+Elemental Skills
+Magic Items	Charms	Nature's Elemental Skills
+Clean: x1 Um - x1 Mal
+30 - 40 Life: x18 - x26 Ist
+12 Faster Hit Recovery: x6 Ist
+Druid Grand Charms
+Shapeshifting Skills
+Magic Items	Charms	Spiritual Shapeshifting Skills
+Clean: x1 Pul
+5 - 10 Life: x1 Um - x1 Mal
+10 - 20 Life: x1 Mal - x1.5 Ist
+30 - 40 Life: x3.5 - x6 Ist
+Druid Grand Charms
+Summoning Skills
+Magic Items	Charms	Trainer's Summoning Skills
+Clean: x1 Lem - x1 Pul
+Paladin Grand Charms
+Defensive Auras
+Magic Items	Charms	Preserver's Defensive Auras
+Clean: x1 Lem
+
+Paladin Grand Charms
+Paladin Combat Skills
+Magic Items	Charms	Lion Branded Combat Skills
+Clean: x1.5 - x3 Ist
+30 - 40 Life: x120 - x165 Ist
+12 Faster Hit Recovery: x28 - x36 Ist
+6 Strength: x5 - x8 Ist
+Paladin Gran Charms
+Paladin Offensive Auras
+Magic Items	Charms	Captain's Offensive Auras
+Clean: x1 Um - x1 Mal
+5 - 10 Life: x1 Mal - x1 Ist
+10 - 20 Life: x1 Ist - x2.5 Ist
+12 Faster Hit Recovery: x3 -x4 Ist
+7 Faster Run/Walk: x3 Ist
+Necromancer Grand Charms
+Curses
+Magic Items	Charms	Hexing Curses
+Clean: x1 Lem
+Necromancer Grand Charms
+Poison and Bone Skills
+Magic Items	Charms	Fungal Poison and Bone Skills:
+Clean: x1 Um - x1 Mal
+40 - 45 Life: x70 - x180 Ist
+12 Faster Hit Recovery: x9 - x12 Ist
+Necromancer Grand Charms
+Summoning Skills
+Magic Items	Charms	Graverobber's Summoning Skills:
+Clean: x1 Pul
+5 - 10 Life: x1 Um - x1 Mal
+10 - 20 Life: x1 Mal - x2 Ist
+30 - 40 Life: x9 - x16 Ist
+6 Strength: x1 Ist
+Sorceress Grand Charms
+Lightning Skills
+Magic Items	Charms	Sparking Lightning Skills
+Clean: x1 Mal - x1 Ist
+5 - 10 Life: x2 Ist
+10 - 20 Life: x2 - x5 Ist
+20 - 30 Life: x5 - x30 Ist
+30 - 40 Life: x30 - x80 Ist
+40 - 45 Life: x10 - 25 High Runes
+12 Faster Hit Recovery: x24 - x26 Ist
+Sorceress Grand Charms
+Cold Skills
+Magic Items	Charms	Chilling Cold Skills
+Clean: x1 Um - x1 Mal
+12 Faster Hit Recovery: x14 - x16 Ist
+7 Faster Run/Walk: x1 Um - x1 Mal
+Sorceress Grand Charms
+Fire Skills
+Magic Items	Charms	Burning Fire Skills:
+Clean: x1 Um
+20 - 30 Life: x4 - x25 Ist
+12 Faster Hit Recovery: x18 - x20 Ist

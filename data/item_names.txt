@@ -1,0 +1,412 @@
+The Gnasher
+Deathspade
+Bladebone
+Skull Splitter
+Rakescar
+Axe of Fechmar
+Goreshovel
+The Chieftain
+Brainhew
+Humongous
+Coldkill
+Butcher's Pupil
+Islestrike
+Pompeii's Wrath
+Guardian Naga
+Warlord's Trust
+Spellsteel
+Stormrider
+Boneslayer Blade
+The Minotaur
+Razor's Edge
+Rune Master
+Cranebeak
+Death Cleaver
+Ethereal Edge
+Hellslayer
+Messerschmidt's Reaver
+Executioner's Justice
+Felloak
+Stoutnail
+Crushflange
+Bloodrise
+The General's Tan Do Li Ga
+Ironstone
+Bonesnap
+Steeldriver
+Dark Clan Crusher
+Fleshrender
+Sureshrill Frost
+Moonfall
+Baezil's Vortex
+Earthshaker
+Bloodtree Stump
+The Gavel of Pain
+Nord's Tenderizer
+Demon Limb
+Baranar's Star
+Horizon's Tornado
+Stormlash
+Stone Crusher
+Schaefer's Hammer
+Windhammer
+Earth Shifter
+The Cranium Basher
+Horadric Malus
+Khalim's Flail
+Khalim's Will
+Hell Forge Hammer
+Rixot's Keen
+Blood Crescent
+Skewer of Krintiz
+Gleamscythe
+Griswold's Edge
+Hellplague
+Culwen's Point
+Shadowfang
+Soulflay
+Kinemil's Awl
+Blacktongue
+Ripsaw
+The Patriarch
+Bloodletter
+Coldsteel Eye
+Hexfire
+Blade of Ali Baba
+Ginther's Rift
+Headstriker
+Plague Bearer
+The Atlantean
+Crainte Vomir
+Bing Sz Wang
+The Vile Husk
+Cloudcrack
+Todesfaelle Flamme
+Swordguard
+Djinn Slayer
+Bloodmoon
+Lightsabre
+Azurewrath
+Frostwind
+Hadriel's Hand
+Leoric's Mithril Bane
+Flamebellow
+Doombringer
+Odium
+The Grandfather
+Gull
+The Diggler
+The Jade Tan Do
+Spectral Shard
+Spineripper
+Heart Carver
+Blackbog's Sharp
+Stormspike
+Wizardspike
+Fleshripper
+Ghostflame
+The Gidbinn
+Deathbit
+The Scalper
+Gimmershred
+Warshrike
+Lacerator
+Demon's Arch
+Wraith Flight
+Gargoyle's Bite
+The Dragon Chang
+Razortine
+Bloodthief
+Lance of Yaggai
+The Tannr Gorerod
+The Impaler
+Kelpie Snare
+Soulfeast Tine
+Hone Sundan
+Spire of Honor
+Arioc's Needle
+Viperfork
+Uldyssian's Awakening
+Steel Pillar
+Dimoak's Hew
+Steelgoad
+Soul Harvest
+The Battlebranch
+Woestave
+The Grim Reaper
+The Meat Scraper
+Blackleach Blade
+Athena's Wrath
+Pierre Tombale Couant
+Husoldal Evo
+Grim's Burning Dead
+Bonehew
+The Reaper's Toll
+Tomb Reaver
+Stormspire
+Pluckeye
+Witherstring
+Raven Claw
+Rogue's Bow
+Stormstrike
+Wizendraw
+Hellclap
+Blastbark
+Skystrike
+Riphook
+Kuko Shakaku
+Endlesshail
+Witchwild String
+Cliffkiller
+Magewrath
+Goldstrike Arch
+Eaglehorn
+Widowmaker
+Windforce
+Leadcrow
+Ichorsting
+Hellcast
+Doomslinger
+Langer Briser
+Pus Spitter
+Buriza-Do Kyanon
+Demon Machine
+Gut Siphon
+Hellrack
+Knell Striker
+Rusthandle
+Stormeye
+Zakarum's Hand
+The Fetid Sprinkler
+Hand of Blessed Light
+Heaven's Light
+The Redeemer
+Akarat's Devotion
+Astreon's Iron Ward
+Bane Ash
+Serpent Lord
+Spire of Lazarus
+The Salamander
+The Iron Jang Bong
+Razorswitch
+Ribcracker
+Chromatic Ire
+Warpspear
+Skull Collector
+Brimstone Rain
+Ondal's Wisdom
+Mang Song's Lesson
+Staff of Kings
+Horadric Staff
+Torch of Iro
+Maelstrom
+Gravenspine
+Ume's Lament
+Suicide Branch
+Carin Shard
+Arm of King Leoric
+Blackhand Key
+Boneshade
+Death's Web
+Lycander's Aim
+Blood Raven's Charge
+Lycander's Flank
+Stoneraven
+Zerae's Resolve
+True Silver
+Titan's Revenge
+Thunderstroke
+Mage Slayer
+Bartuc's Cut-Throat
+Stalker's Cull
+Jade Talon
+Firelizard's Talons
+Shadow Killer
+Aidan's Scar
+Tempest
+The Oculus
+Eschuta's Temper
+Death's Fathom
+Biggin's Bonnet
+Tarnhelm
+Coif of Glory
+Duskdeep
+The Face of Horror
+Wormskull
+Howltusk
+Undead Crown
+Peasant Crown
+Rockstopper
+Stealskull
+Darksight Helm
+Blackhorn's Face
+Vampire Gaze
+Valkyrie Wing
+Crown of Thieves
+Harlequin Crest
+Steel Shade
+Andariel's Visage
+Giant Skull
+Veil of Steel
+Nightwing's Veil
+Crown of Ages
+Overlord's Helm
+Kira's Guardian
+Griffon's Eye
+Cyclopean Roar
+Arreat's Face
+Wolfhowl
+Demonhorn's Edge
+Halaberd's Reign
+Raekor's Virtue
+Quetzalcoatl
+Jalal's Mane
+Cerebus' Bite
+Ravenlore
+Spirit Keeper
+Ursa's Nightmare
+Greyform
+Blinkbat's Form
+The Centurion
+Twitchthroe
+Darkglow
+Hawkmail
+Sparking Mail
+Venom Ward
+Iceblink
+Boneflesh
+Rockfleece
+Rattlecage
+Heavenly Garb
+Goldskin
+Silks of the Victor
+Spirit Shroud
+Skin of the Vipermagi
+Skin of the Flayed One
+Iron Pelt
+Spirit Forge
+Crow Caw
+Shaftstop
+Duriel's Shell
+Skullder's Ire
+Guardian Angel
+Toothrow
+Atma's Wail
+Que-Hegan's Wisdom
+Black Hades
+Corpsemourn
+Ormus' Robes
+The Gladiator's Bane
+Arkaine's Valor
+Leviathan
+Purgatory
+Steel Carapace
+Templar's Might
+Tyrael's Might
+Dark Abyss
+Cage of the Unsullied
+Pelta Lunata
+Umbral Disk
+Stormguild
+Swordback Hold
+Steelclash
+Wall of the Eyeless
+Bverrit Keep
+The Ward
+Visceratuant
+Moser's Blessed Circle
+Stormchaser
+Lance Guard
+Tiamat's Rebuke
+Lidless Wall
+Gerke's Sanctuary
+Radament's Sphere
+Blackoak Shield
+Spike Thorn
+Stormshield
+Head Hunter's Glory
+Medusa's Gaze
+Spirit Ward
+Kalan's Legacy
+Homunculus
+Boneflame
+Darkforce Spawn
+Martyrdom
+Sankekur's Fall
+Herald of Zakarum
+Alma Negra
+Dragonscale
+The Hand of Broc
+Bloodfist
+Chance Guards
+Magefist
+Frostburn
+Venom Grip
+Gravepalm
+Ghoulhide
+Lava Gout
+Hellmouth
+Dracul's Grasp
+Soul Drainer
+Occultist
+Steelrend
+Hotspur
+Gorefoot
+Treads of Cthon
+Goblin Toe
+Tearhaunch
+Infernostride
+Waterwalk
+Silkweave
+War Traveler
+Gore Rider
+Merman's Sprocket
+Sandstorm Trek
+Marrowwalk
+Shadow Dancer
+Itherael's Path
+Lenymo
+Snakecord
+Nightsmoke
+Goldwrap
+Bladebuckle
+String of Ears
+Razortail
+Gloom's Trap
+Snowclash
+Thundergod's Vigor
+Arachnid Mesh
+Nosferatu's Coil
+Verdungo's Hearty Cord
+Band of Skulls
+Nokozan Relic
+The Eye of Etlich
+The Mahim-Oak Curio
+Saracen's Chance
+Crescent Moon
+The Cat's Eye
+Atma's Scarab
+Highlord's Wrath
+The Rising Sun
+Seraph's Hymn
+Mara's Kaleidoscope
+Metalgrid
+The Third Eye
+Amulet of the Viper
+Nagelring
+Manald Heal
+The Stone of Jordan
+Dwarf Star
+Raven Frost
+Bul-Kathos' Wedding Band
+Carrion Wind
+Nature's Peace
+Wisp Projector
+Kadala's Heirloom
+Gheed's Fortune
+Hellfire Torch
+Annihilus
+Rainbow Facet (Fire)
+Rainbow Facet (Cold)
+Rainbow Facet (Lightning)
+Rainbow Facet (Poison)

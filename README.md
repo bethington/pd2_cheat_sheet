@@ -1,6 +1,6 @@
-# Diablo 2 Cheat Sheet
+# Project Diablo 2 Cheat Sheet
 
-* [Cheat Sheet](https://htmlpreview.github.io/?https://github.com/bethington/d2_cheat_sheet/blob/master/index.html)
+* [Cheat Sheet](https://htmlpreview.github.io/?https://github.com/bethington/pd2_cheat_sheet/blob/master/index.html)
 
 # QoL Features
 
